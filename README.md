@@ -1,4 +1,4 @@
-# 🚨 Security Portal
+# 🚨 Suraksha Setu
 
 A modern **Security Management System** that enables users to report incidents, monitor threats, and manage security operations efficiently. The platform is built with a **FastAPI backend** and a modern frontend stack for performance and scalability.
 
